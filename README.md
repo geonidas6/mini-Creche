@@ -1,2 +1,2 @@
-# mini-Creche
-Poo PHP mini crèche projet test
+# minicreche
+mini logicie pour gérer une creche
